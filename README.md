@@ -1,2 +1,2 @@
-# Dio-Menu-Hamburguer---Morphing---menu
-desafio da Dio sobre HTML  e CSS
+# Projeto para desafio da Dio-Menu-Hamburguer---Morphing---menu
+projeto construido em HTML5 e CSS 
